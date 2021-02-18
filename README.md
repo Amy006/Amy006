@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Amy006/Amy006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hola soy Amy, soy una persona muy curiosa y que le encanta investigar en cosas nuevas, soy una estudiante del Centro Educativo Manuel Acevedo serrano fe y alegría, mi curso es 6toB informatica . this file) appears on your GitHub profile.ere are some ideas to get you started:
 
 🔭 I’m currently working on algunos proyectos en git
@@ -12,5 +7,6 @@ como facebook como Amy Cruz o en  instagram como: Amy_reynoso26
 😄 Pronoun: Amy
 ⚡ Fun fact: tengo 17 años , vivo en manga larga, actualmente estoy aprendiendo a usar git local y github
 ->- 🌱 I’m currently learning a usar git local y github
+
 
 
